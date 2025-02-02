@@ -113,7 +113,7 @@ class ULListStr {
    */
   void clear();
 
- private:
+  private:
   /** 
    * Returns a pointer to the item at index, loc,
    *  if loc is valid and NULL otherwise
